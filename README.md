@@ -9,7 +9,9 @@
 
   </p>
 
-<h2><i>Hello there! 😉 Hope you are doing well, Let's go to a tour where you are going to know about me.</i></h2>
+<h2><i><p>
+ Hello there! 😉 Hope you are doing well, Let's go to a tour where you are going to know about me.
+ </p></i></h2>
 <i>It's NITYA NAND JHA(Shunux-Stuxnet)</i>
 <br>
 <b> More bout me :</b>
