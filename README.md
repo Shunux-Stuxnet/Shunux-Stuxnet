@@ -23,6 +23,6 @@
 <p align="center"><a href="https://github.com/Shunux-Stuxnet">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shunux-Stuxnet&show_icons=true&theme=radical&layout=compact&hide_border=true" /></a>
  &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Shunux-Stuxnet"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shunux-Stuxnet&layout=compact&theme=radical&hide_border=true" height=160/>
+<a href="https://github.com/Shunux-Stuxnet"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shunux-Stuxnet&layout=compact&theme=radical&hide_border=true" height=150/>
 </a>
  </p>
