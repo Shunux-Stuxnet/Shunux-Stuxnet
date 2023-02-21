@@ -3,8 +3,8 @@
  <img src="https://raw.githubusercontent.com/Shunux-Stuxnet/Shunux-Stuxnet/main/My%20Post%20(5)%7E2.png" />
  </p>
  <p align="right">
-  <a href="https://www.linkedin.com/in/shunux-stuxnet"><img src="https://raw.githubusercontent.com/d8rkmind/d8rkmind/main/linkedin-64.png" width=21 ></a>
-   <a href="https://twitter.com/CySecDF?s=09"><img src="https://raw.githubusercontent.com/d8rkmind/d8rkmind/06d5e527ed143664109ce5126000a1833a4e0ee0/twitter.svg" width=21/></a>
+  <a href="https://www.linkedin.com/in/shunux-stuxnet"><img src="https://raw.githubusercontent.com/Shunux-Stuxnet/Shunux-Stuxnet/main/linkedin-64.png" width=21 ></a>
+   <a href="https://twitter.com/CySecDF?s=09"><img src="https://raw.githubusercontent.com/Shunux-Stuxnet/Shunux-Stuxnet/06d5e527ed143664109ce5126000a1833a4e0ee0/twitter.svg" width=21/></a>
   
 
   </p>
