@@ -25,10 +25,10 @@
   <em>Check out my LeetCode profile for more details!</em>
 </p>
 
-<h3>My Projects:</h3>
+<h3>Featured Projects:</h3>
 <ul>
-  <li><a href="https://github.com/Shunux-Stuxnet/project-1">Project 1</a></li>
-  <li><a href="https://github.com/Shunux-Stuxnet/project-2">Project 2</a></li>
-  <li><a href="https://github.com/Shunux-Stuxnet/project-3">Project 3</a></li>
-  <!-- Add more projects as needed -->
+  <li><a href="https://github.com/Shunux-Stuxnet/GoSecure">GoSecure</a></li>
+  <li><a href="https://github.com/Shunux-Stuxnet/BullyBlock">BullyBlock</a></li>
+  <li><a href="https://github.com/Shunux-Stuxnet/ProtogeCell-Golang-Project-">ProtogeCell</a></li>
+  <li><a href="https://github.com/Shunux-Stuxnet/Boffin">BullyBlock</a></li>
 </ul>
