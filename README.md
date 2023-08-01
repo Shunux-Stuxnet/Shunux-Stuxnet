@@ -36,7 +36,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
   <em>Check out my LeetCode profile for more details!</em>
 </p>
 <p align="right">
-  <img src="https://www.freepik.com/free-vector/cute-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-icon-isolated-flat_36610887.htm#query=hacker%20cartoon&position=5&from_view=keyword&track=ais" width="200" />
+  <img src="https://img.freepik.com/free-vector/cute-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-icon-isolated-flat_138676-7079.jpg?w=740&t=st=1690915330~exp=1690915930~hmac=7c36aff3870feb335e3806bf957ee03d2b57c3c69b80e54a9763d9d59c54a8f3&position=5&from_view=keyword&track=ais" width="200" />
 </p>
 
 
