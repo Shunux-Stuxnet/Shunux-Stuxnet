@@ -27,22 +27,43 @@ Projects - Security <img width=200/> | [![GoSecure Badge](https://img.shields.io
 Projects - Web      | [![BullyBlock Badge](https://img.shields.io/badge/-BullyBlock-FF4500?style=flat&logoColor=white)](https://github.com/Shunux-Stuxnet/BullyBlock) [![ProtoGeCell Badge](https://img.shields.io/badge/-ProtoGeCell-FF69B4?style=flat&logoColor=white)](https://github.com/Shunux-Stuxnet/ProtogeCell-Golang-Project-) [![Cryptanite Badge](https://img.shields.io/badge/-Cryptanite-9370DB?style=flat&logoColor=white)](https://github.com/Shunux-Stuxnet/Cryptanite) 
 Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx16-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/CySecDF) [![Gmail Badge](https://img.shields.io/badge/-zmcx16-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:nitya.nandjha2020@vitbhopal.ac.in) [![Linkedin Badge](https://img.shields.io/badge/-zmcx16-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shunux-stuxnet/)
 
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <h3>Leetcode Stats:</h3>
-    <p>
-      <a href="https://leetcode.com/shunux">
-        <img src="https://leetcard.jacoblin.cool/shunux?ext=contest" alt="Leetcode Stats" />
-      </a>
-      <br>
-      <em>Check out my LeetCode profile for more details!</em>
-    </p>
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="https://img.freepik.com/free-vector/cute-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-icon-isolated-flat_138676-7079.jpg?w=740&t=st=1690915330~exp=1690915930~hmac=7c36aff3870feb335e3806bf957ee03d2b57c3c69b80e54a9763d9d59c54a8f3" width="200" />
-  </div>
-</div>
+<html>
+<head>
+  <title>LeetCode Stats and Hacker Cartoon</title>
+  <style>
+    .container {
+      display: flex;
+      border: 1px solid #ccc;
+      padding: 10px;
+    }
 
+    .left-section {
+      flex: 1;
+    }
 
+    .right-section {
+      flex: 1;
+      text-align: right;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="left-section">
+      <h3>Leetcode Stats:</h3>
+      <p>
+        <a href="https://leetcode.com/shunux">
+          <img src="https://leetcard.jacoblin.cool/shunux?ext=contest" alt="Leetcode Stats" />
+        </a>
+        <br>
+        <em>Check out my LeetCode profile for more details!</em>
+      </p>
+    </div>
+    <div class="right-section">
+      <img src="https://img.freepik.com/free-vector/cute-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-icon-isolated-flat_138676-7079.jpg?w=740&t=st=1690915330~exp=1690915930~hmac=7c36aff3870feb335e3806bf957ee03d2b57c3c69b80e54a9763d9d59c54a8f3" width="200" />
+    </div>
+  </div>
+</body>
+</html>
 
 
