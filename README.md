@@ -19,7 +19,7 @@
 <h3>Leetcode Stats:</h3>
 <p>
   <a href="https://leetcode.com/shunux">
-    <img src="https://leetcard.jacoblin.cool/lapor?ext=contest" alt="Leetcode Stats" />
+    <img src="https://leetcard.jacoblin.cool/shunux?ext=contest" alt="Leetcode Stats" />
   </a>
   <br>
   <em>Check out my LeetCode profile for more details!</em>
