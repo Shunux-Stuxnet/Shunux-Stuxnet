@@ -11,13 +11,8 @@
 <h2><i><p>Hello there! 😉 Hope you are doing well, Let's go on a tour where you are going to know about me.</p></i></h2>
 <i>It's NITYA NAND JHA (Shunux-Stuxnet)</i>
 <br>
-<b>More about me:</b>
 
-* Backend: Golang 🚀
-* Scripting: Python 🐍, Bash 📜
-
-
-## Profile
+## More about me 
 Property                 | Data  
 -------------------------|------
 Language / IDE           | [![VS Code Badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://github.com/search?q=user%3Ashunux&type=Repositories) [![JAVA Badge](https://img.shields.io/badge/-JAVA-007396?style=flat&logo=JAVA&logoColor=white)](https://github.com/search?q=user%3Ashunux&type=Repositories) [![Golang Badge](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)](https://github.com/search?q=user%3Ashunux&type=Repositories)
